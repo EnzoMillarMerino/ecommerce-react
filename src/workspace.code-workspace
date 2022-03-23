@@ -1,0 +1,13 @@
+{
+    "folders": [
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\React 1 nivelacion"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "React 1 nivelacion"
+    }
+}
